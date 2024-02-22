@@ -7,6 +7,6 @@ Test normal text
 
 - list 1
 - list 2
-<iframe frameborder="0" src="https://itch.io/embed-upload/2473690?color=e2e8f8" allowfullscreen="" width="980" height="688"><a href="https://dtfernandes.itch.io/provisorio">Play Silver lining on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/2473690?color=e2e8f8" allowfullscreen="" width="980" height="688" style="margin: 0 25px;"><a href="https://dtfernandes.itch.io/provisorio">Play Silver lining on itch.io</a></iframe>
 
 ## Hgfhfgh
